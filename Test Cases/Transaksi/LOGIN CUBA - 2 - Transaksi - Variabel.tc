@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LOGIN CUBA - 2 - Transaksi - Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40378ad2-c6f7-4455-9e00-c7ac105eb4ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c68b445-1016-476c-9037-d413b2f51a69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7e3a2b5-9869-4275-9839-11a73007f52c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>7c68b445-1016-476c-9037-d413b2f51a69</id>
+      <masked>false</masked>
+      <name>readmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicare'</defaultValue>
+      <description></description>
+      <id>b7e3a2b5-9869-4275-9839-11a73007f52c</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+</TestCaseEntity>
